@@ -1,0 +1,30 @@
+.titulos{
+    color:rgb(3, 85, 85);
+}
+#cuerpo-pagina{
+ background-color: rgb(235, 239, 243);
+}
+.informacion-contacto{
+color:blue;
+font-size: 18px;
+}
+#inicio{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+
